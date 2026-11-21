@@ -1,0 +1,50 @@
+commit af823c7ce8a556931e0f7fe1d83c6124330600bf
+Author: afdez <9600205@alumnos.ufv.es>
+Date:   Sat Nov 21 12:52:36 2026 +0100
+
+    Update README with latest changes
+
+commit eb2091c4208d31bdd290989f10da457be3f97cc7
+Author: afdez <9600205@alumnos.ufv.es>
+Date:   Sat Nov 21 12:48:03 2026 +0100
+
+    Adding license file to the repo
+
+commit ea46224ae999b00dc4e66f8b36e5996a7e5564fe
+Merge: d610648 4401042
+Author: afdez <9600205@alumnos.ufv.es>
+Date:   Sat Nov 21 12:24:49 2026 +0100
+
+    Merge branch 'main' of https://github.com/amos-fernandez-cortizas/first_repository_2026
+
+commit d610648d14b534766e7f826dd7e7580ebd8fed4e
+Author: afdez <9600205@alumnos.ufv.es>
+Date:   Sat Nov 21 12:22:53 2026 +0100
+
+    Adding src folder and all its files
+
+commit 4401042a55af0e070d8c09f4ad67b6b9e8f74230
+Author: amos-fernandez-cortizas <9600205@alumnos.ufv.es>
+Date:   Sat Nov 21 12:12:16 2026 +0100
+
+    Fix formatting of repository title in README
+    
+    Add a space after the '#' in the repository title.
+
+commit 478c7329987851a7486652241711133b8aac683b
+Author: afdez <9600205@alumnos.ufv.es>
+Date:   Sat Nov 21 12:11:46 2026 +0100
+
+    Adding some changes to the Readme file
+
+commit 4b204a79b4a4dfec82c067de51c684bbc68fdcde
+Author: afdez <9600205@alumnos.ufv.es>
+Date:   Sat Nov 21 12:02:51 2026 +0100
+
+    Adding gitignore to the repo
+
+commit f456a05265e58b85800e4f810ee5da829edd6fde
+Author: afdez <9600205@alumnos.ufv.es>
+Date:   Sat Nov 21 11:31:24 2026 +0100
+
+    Adding my first file to the repo
